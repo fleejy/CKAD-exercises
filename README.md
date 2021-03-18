@@ -1,8 +1,10 @@
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![unofficial Google Analytics for GitHub](https://gaforgithub.azurewebsites.net/api?repo=CKAD-exercises)](https://github.com/dgkanatsios/gaforgithub)
 
-# CKAD Exercises
+# CKAD Preparation by fleejy
+
+Forked from [dgkanatsios/CKAD-exercises](https://github.com/dgkanatsios/CKAD-exercises) for reference with my personal notes for learning.
+
+## CKAD Exercises
 
 A set of exercises that helped me prepare for the [Certified Kubernetes Application Developer](https://www.cncf.io/certification/ckad/) exam, offered by the Cloud Native Computing Foundation, organized by curriculum domain. They may as well serve as learning and practicing with Kubernetes.
 
@@ -17,10 +19,6 @@ During the exam, you are allowed to keep only one other browser tab open to refe
 - [Observability - 18%](e.observability.md)
 - [Services and networking - 13%](f.services.md)
 - [State persistence - 8%](g.state.md)
-
-### Can I PR? There is an error/an alternative way/an extra question/solution I can offer
-
-Absolutely! Feel free to PR and edit/add questions and solutions, but please stick to the existing format.
 
 ### References
 - [here](https://github.com/twajr/ckad-prep-notes) from twajr
